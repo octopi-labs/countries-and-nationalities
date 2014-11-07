@@ -1,7 +1,7 @@
 countries
 =========
 
-A list of country and information related to country like iso2, iso3, shortname, longname, nationality, numcode, unmember, callingcode, cctld
+A list of country with natinality and other information like iso2, iso3, shortname, longname, numcode, unmember, callingcode, cctld
 
 List formats are as follows:
 1. sql
